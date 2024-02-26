@@ -1,0 +1,1122 @@
+{
+  "posts": [
+    {
+      "id": "10",
+      "img": "https://placehold.co/1200x700?text=dep+Math",
+      "title": "Math",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, necessitatibus voluptatum quaerat nisi corrupti voluptates dicta id repellendus in, eligendi eaque doloremque? Consectetur natus dolorem obcaecati neque fuga hic ducimus?",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title f",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": {
+              "to": "Ucd_Fs_Logo.svg",
+              "atext": "home",
+              "download": true
+            }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image",
+          "download": true
+        },
+        "table": {
+          "tcaption": "this is some caption text",
+          "theader": {
+            "trow": [
+              { "thead": "Name" },
+              { "thead": "age" },
+              { "thead": "job" }
+            ]
+          },
+          "tbody": [
+            {
+              "trow": [
+                { "tcell": "Amine Bouobia" },
+                { "tcell": "25" },
+                { "tcell": "Jobless" }
+              ]
+            },
+            {
+              "trow": [
+                { "tcell": "Anas Bouobia" },
+                { "tcell": "11" },
+                { "tcell": "Student" }
+              ]
+            }
+          ]
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "departements",
+      "lastmodified": "Thu, 10 Feb 2024 00:00:00 GMT"
+    },
+    {
+      "id": "11",
+      "img": "https://placehold.co/1200x700?text=dep+Physics",
+      "title": "Physics",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, necessitatibus voluptatum quaerat nisi corrupti voluptates dicta id repellendus in, eligendi eaque doloremque? Consectetur natus dolorem obcaecati neque fuga hic ducimus?",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": {
+              "to": "Ucd_Fs_Logo.svg",
+              "atext": "home",
+              "download": true
+            }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image",
+          "download": true
+        },
+        "table": {
+          "tcaption": "this is some caption text",
+          "theader": {
+            "trow": [
+              { "thead": "Name" },
+              { "thead": "age" },
+              { "thead": "job" }
+            ]
+          },
+          "tbody": [
+            {
+              "trow": [
+                { "tcell": "Amine Bouobia" },
+                { "tcell": "25" },
+                { "tcell": "Jobless" }
+              ]
+            },
+            {
+              "trow": [
+                { "tcell": "Anas Bouobia" },
+                { "tcell": "11" },
+                { "tcell": "Student" }
+              ]
+            }
+          ]
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "departements",
+      "lastmodified": "Thu, 10 Feb 2024 00:00:00 GMT"
+    },
+    {
+      "id": "1",
+      "img": "https://placehold.co/1200x700?text=Mot+du+Doyen",
+      "title": "Bienvenue à la faculté des sciences",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, necessitatibus voluptatum quaerat nisi corrupti voluptates dicta id repellendus in, eligendi eaque doloremque? Consectetur natus dolorem obcaecati neque fuga hic ducimus?",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": {
+              "to": "Ucd_Fs_Logo.svg",
+              "atext": "home",
+              "download": true
+            }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image",
+          "download": true
+        },
+        "table": {
+          "tcaption": "this is some caption text",
+          "theader": {
+            "trow": [
+              { "thead": "Name" },
+              { "thead": "age" },
+              { "thead": "job" }
+            ]
+          },
+          "tbody": [
+            {
+              "trow": [
+                { "tcell": "Amine Bouobia" },
+                { "tcell": "25" },
+                { "tcell": "Jobless" }
+              ]
+            },
+            {
+              "trow": [
+                { "tcell": "Anas Bouobia" },
+                { "tcell": "11" },
+                { "tcell": "Student" }
+              ]
+            }
+          ]
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "motdoyen",
+      "by": "Le Doyen : PR. MOHAMMED BELAGHEN",
+      "lastmodified": "Thu, 10 Feb 2024 00:00:00 GMT"
+    },
+    {
+      "id": "2",
+      "img": "https://placehold.co/1200x700/354575/ffffff",
+      "title": "MASTER SPÉCIALISÉ : GÉNIE DES MATÉRIAUX POREUX ET APPLICATIONS INDUSTRIELLES",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda hic quibusdam quae voluptates qui molestias, enim possimus odio, cumque ipsam repellendus sunt consequatur at similique architecto unde? Quo, hic amet?",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": { "to": "/", "atext": "home" }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image"
+        },
+        "table": {
+          "tcaption": "this is some caption text",
+          "theader": {
+            "trow": [
+              { "thead": "Name" },
+              { "thead": "age" },
+              { "thead": "job" }
+            ]
+          },
+          "tbody": [
+            {
+              "trow": [
+                { "tcell": "Amine Bouobia" },
+                { "tcell": "25" },
+                { "tcell": "Jobless" }
+              ]
+            },
+            {
+              "trow": [
+                { "tcell": "Anas Bouobia" },
+                { "tcell": "11" },
+                { "tcell": "Student" }
+              ]
+            }
+          ]
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "annonces",
+      "by": "Pr: Hassan Figuigui",
+      "lastmodified": "Thu, 10 Feb 2024 00:00:00 GMT"
+    },
+    {
+      "id": "3",
+      "img": "https://placehold.co/1200x700/354575/ffffff",
+      "title": "LES LISTES DES INSCRITS",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda hic quibusdam quae voluptates qui molestias, enim possimus odio, cumque ipsam repellendus sunt consequatur at similique architecto unde? Quo, hic amet?",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": { "to": "/", "atext": "home" }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image"
+        },
+        "table": {
+          "tcaption": "this is some caption text",
+          "theader": {
+            "trow": [
+              { "thead": "Name" },
+              { "thead": "age" },
+              { "thead": "job" }
+            ]
+          },
+          "tbody": [
+            {
+              "trow": [
+                { "tcell": "Amine Bouobia" },
+                { "tcell": "25" },
+                { "tcell": "Jobless" }
+              ]
+            },
+            {
+              "trow": [
+                { "tcell": "Anas Bouobia" },
+                { "tcell": "11" },
+                { "tcell": "Student" }
+              ]
+            }
+          ]
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "annonces",
+      "by": "Pr: Amine Bouobia",
+      "lastmodified": "Thu, 10 Feb 2024 00:00:00 GMT"
+    },
+    {
+      "id": "4",
+      "img": "https://placehold.co/1200x700/dd3545/ffffff",
+      "title": "INSCRIPTION DES NOUVEAUX BACHELIERS",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque, aliquam quidem modi rerum saepe soluta animi atque iste sit officiis libero quas beatae ratione voluptatum expedita corporis qui veniam illum consequuntur non amet! Aut quam magni ullam? Veniam, perferendis ea voluptatibus dolor porro ratione animi itaque voluptate adipisci dolorum. Nam sint soluta consequuntur nesciunt ullam, reiciendis cupiditate at aliquam labore minima unde accusantium quibusdam incidunt culpa voluptate cum voluptatum et expedita! Qui minus cum corrupti tempora velit, quisquam consequatur deleniti exercitationem, asperiores quaerat odio obcaecati cupiditate dolorem corporis vero impedit, deserunt possimus repellendus voluptates. Debitis at quaerat consequatur excepturi quae!",
+      "content": {
+        "h1": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          }
+        ],
+        "ul": [
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "articles",
+      "by": "Pr: Hassan Figuigui",
+      "lastmodified": "Thu, 10 Feb 2024 00:00:00 GMT"
+    },
+    {
+      "id": "5",
+      "img": "https://placehold.co/1200x700/dd3545/ffffff",
+      "title": "GUIDE DE L’ETUDIANT",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque, aliquam quidem modi rerum saepe soluta animi atque iste sit officiis libero quas beatae ratione voluptatum expedita corporis qui veniam illum consequuntur non amet! Aut quam magni ullam? Veniam, perferendis ea voluptatibus dolor porro ratione animi itaque voluptate adipisci dolorum. Nam sint soluta consequuntur nesciunt ullam, reiciendis cupiditate at aliquam labore minima unde accusantium quibusdam incidunt culpa voluptate cum voluptatum et expedita! Qui minus cum corrupti tempora velit, quisquam consequatur deleniti exercitationem, asperiores quaerat odio obcaecati cupiditate dolorem corporis vero impedit, deserunt possimus repellendus voluptates. Debitis at quaerat consequatur excepturi quae!",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": { "to": "/", "atext": "home" }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image"
+        },
+        "table": {
+          "tcaption": "this is some caption text",
+          "theader": {
+            "trow": [
+              { "thead": "Name" },
+              { "thead": "age" },
+              { "thead": "job" }
+            ]
+          },
+          "tbody": [
+            {
+              "trow": [
+                { "tcell": "Amine Bouobia" },
+                { "tcell": "25" },
+                { "tcell": "Jobless" }
+              ]
+            },
+            {
+              "trow": [
+                { "tcell": "Anas Bouobia" },
+                { "tcell": "11" },
+                { "tcell": "Student" }
+              ]
+            }
+          ]
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "articles",
+      "by": "Pr: Hassan Figuigui",
+      "lastmodified": "Thu, 10 Feb 2024 00:00:00 GMT"
+    },
+    {
+      "id": "6",
+      "img": "https://placehold.co/1200x700/dd3545/ffffff",
+      "title": "INSCRIPTION 2023/2024",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque, aliquam quidem modi rerum saepe soluta animi atque iste sit officiis libero quas beatae ratione voluptatum expedita corporis qui veniam illum consequuntur non amet! Aut quam magni ullam? Veniam, perferendis ea voluptatibus dolor porro ratione animi itaque voluptate adipisci dolorum. Nam sint soluta consequuntur nesciunt ullam, reiciendis cupiditate at aliquam labore minima unde accusantium quibusdam incidunt culpa voluptate cum voluptatum et expedita! Qui minus cum corrupti tempora velit, quisquam consequatur deleniti exercitationem, asperiores quaerat odio obcaecati cupiditate dolorem corporis vero impedit, deserunt possimus repellendus voluptates. Debitis at quaerat consequatur excepturi quae!",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": { "to": "/", "atext": "home" }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image"
+        },
+        "table": {
+          "tcaption": "this is some caption text",
+          "theader": {
+            "trow": [
+              { "thead": "Name" },
+              { "thead": "age" },
+              { "thead": "job" }
+            ]
+          },
+          "tbody": [
+            {
+              "trow": [
+                { "tcell": "Amine Bouobia" },
+                { "tcell": "25" },
+                { "tcell": "Jobless" }
+              ]
+            },
+            {
+              "trow": [
+                { "tcell": "Anas Bouobia" },
+                { "tcell": "11" },
+                { "tcell": "Student" }
+              ]
+            }
+          ]
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "articles",
+      "by": "Pr: Hassan Figuigui",
+      "lastmodified": "Thu, 10 Feb 2024 00:00:00 GMT"
+    },
+    {
+      "id": "7",
+      "img": "https://placehold.co/1200x700",
+      "title": "la seconde édition des journées Doctorales",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit ...",
+      "date": "2024-02-09",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": { "to": "/", "atext": "home" }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image"
+        },
+        "table": {
+          "tcaption": "this is some caption text",
+          "theader": {
+            "trow": [
+              { "thead": "Name" },
+              { "thead": "age" },
+              { "thead": "job" }
+            ]
+          },
+          "tbody": [
+            {
+              "trow": [
+                { "tcell": "Amine Bouobia" },
+                { "tcell": "25" },
+                { "tcell": "Jobless" }
+              ]
+            },
+            {
+              "trow": [
+                { "tcell": "Anas Bouobia" },
+                { "tcell": "11" },
+                { "tcell": "Student" }
+              ]
+            }
+          ]
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "events",
+      "by": "Le Doyen : PR. MOHAMMED BELAGHEN",
+      "lastModified": "2024-10-09"
+    },
+    {
+      "id": "8",
+      "img": "https://placehold.co/1200x700",
+      "title": "la science au service de développement durable",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit ...",
+      "date": "2024-03-18",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": { "to": "/", "atext": "home" }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image"
+        },
+        "table": {
+          "tcaption": "this is some caption text",
+          "theader": {
+            "trow": [
+              { "thead": "Name" },
+              { "thead": "age" },
+              { "thead": "job" }
+            ]
+          },
+          "tbody": [
+            {
+              "trow": [
+                { "tcell": "Amine Bouobia" },
+                { "tcell": "25" },
+                { "tcell": "Jobless" }
+              ]
+            },
+            {
+              "trow": [
+                { "tcell": "Anas Bouobia" },
+                { "tcell": "11" },
+                { "tcell": "Student" }
+              ]
+            }
+          ]
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "events",
+      "by": "Pr: Hassan Figuigui",
+      "lastModified": "2024-02-29"
+    },
+    {
+      "id": "9",
+      "img": "https://placehold.co/1200x700",
+      "title": "مسابقة فنية في الرسم والصورة الفوتوغرافية",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit ...",
+      "date": "2023-11-20",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": { "to": "/", "atext": "home" }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image"
+        },
+        "table": {
+          "tcaption": "this is some caption text",
+          "theader": {
+            "trow": [
+              { "thead": "Name" },
+              { "thead": "age" },
+              { "thead": "job" }
+            ]
+          },
+          "tbody": [
+            {
+              "trow": [
+                { "tcell": "Amine Bouobia" },
+                { "tcell": "25" },
+                { "tcell": "Jobless" }
+              ]
+            },
+            {
+              "trow": [
+                { "tcell": "Anas Bouobia" },
+                { "tcell": "11" },
+                { "tcell": "Student" }
+              ]
+            }
+          ]
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "events",
+      "by": "Pr: Amine Bouobia",
+      "lastModified": "2024-03-15"
+    },
+    {
+      "id": "20",
+      "img": "https://placehold.co/1200x700?text=dep+Physics",
+      "title": "Formation 1",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, necessitatibus voluptatum quaerat nisi corrupti voluptates dicta id repellendus in, eligendi eaque doloremque? Consectetur natus dolorem obcaecati neque fuga hic ducimus?",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": {
+              "to": "Ucd_Fs_Logo.svg",
+              "atext": "home",
+              "download": true
+            }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image",
+          "download": true
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "formations",
+      "lastmodified": "Thu, 10 Feb 2024 00:00:00 GMT"
+    },
+    {
+      "id": "21",
+      "img": "https://placehold.co/1200x700?text=dep+Physics",
+      "title": "Formation 2",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, necessitatibus voluptatum quaerat nisi corrupti voluptates dicta id repellendus in, eligendi eaque doloremque? Consectetur natus dolorem obcaecati neque fuga hic ducimus?",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": {
+              "to": "Ucd_Fs_Logo.svg",
+              "atext": "home",
+              "download": true
+            }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image",
+          "download": true
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "formations",
+      "lastmodified": "Thu, 10 Feb 2024 00:00:00 GMT"
+    },
+    {
+      "id": "22",
+      "img": "https://placehold.co/1200x700?text=dep+Physics",
+      "title": "Service 1",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, necessitatibus voluptatum quaerat nisi corrupti voluptates dicta id repellendus in, eligendi eaque doloremque? Consectetur natus dolorem obcaecati neque fuga hic ducimus?",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": {
+              "to": "Ucd_Fs_Logo.svg",
+              "atext": "home",
+              "download": true
+            }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image",
+          "download": true
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "services",
+      "lastmodified": "Thu, 10 Feb 2024 00:00:00 GMT"
+    },
+    {
+      "id": "23",
+      "img": "https://placehold.co/1200x700?text=dep+Physics",
+      "title": "Commissions 1",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, necessitatibus voluptatum quaerat nisi corrupti voluptates dicta id repellendus in, eligendi eaque doloremque? Consectetur natus dolorem obcaecati neque fuga hic ducimus?",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": {
+              "to": "Ucd_Fs_Logo.svg",
+              "atext": "home",
+              "download": true
+            }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image",
+          "download": true
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "commissions",
+      "lastmodified": "Thu, 10 Feb 2024 00:00:00 GMT"
+    },
+    {
+      "id": "24",
+      "img": "https://placehold.co/1200x700?text=dep+Physics",
+      "title": "Commissions 2",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, necessitatibus voluptatum quaerat nisi corrupti voluptates dicta id repellendus in, eligendi eaque doloremque? Consectetur natus dolorem obcaecati neque fuga hic ducimus?",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": {
+              "to": "Ucd_Fs_Logo.svg",
+              "atext": "home",
+              "download": true
+            }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image",
+          "download": true
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "commissions",
+      "lastmodified": "Thu, 10 Feb 2024 00:00:00 GMT"
+    },
+    {
+      "id": "25",
+      "img": "https://placehold.co/1200x700?text=dep+Physics",
+      "title": "Equipe 1",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, necessitatibus voluptatum quaerat nisi corrupti voluptates dicta id repellendus in, eligendi eaque doloremque? Consectetur natus dolorem obcaecati neque fuga hic ducimus?",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": {
+              "to": "Ucd_Fs_Logo.svg",
+              "atext": "home",
+              "download": true
+            }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image",
+          "download": true
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "equipes",
+      "lastmodified": "Thu, 10 Feb 2024 00:00:00 GMT"
+    },
+    {
+      "id": "26",
+      "img": "https://placehold.co/1200x700?text=dep+Physics",
+      "title": "Equipe 2",
+      "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, necessitatibus voluptatum quaerat nisi corrupti voluptates dicta id repellendus in, eligendi eaque doloremque? Consectetur natus dolorem obcaecati neque fuga hic ducimus?",
+      "content": {
+        "h1": "Hello this is a title ",
+        "h2": "Hello this is a title ",
+        "h3": "Hello this is a title ",
+        "p": [
+          {
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta unde facere ut asperiores iusto veniam voluptatibus cupiditate ea nihil nisi, ipsam quisquam, aliquid cumque voluptates officia error magnam exercitationem corrupti."
+          },
+          {
+            "a": {
+              "to": "Ucd_Fs_Logo.svg",
+              "atext": "home",
+              "download": true
+            }
+          }
+        ],
+        "img": {
+          "url": "https://placehold.co/1200x700?text=Image",
+          "alt": "image",
+          "download": true
+        },
+        "ul": [
+          { "li": [{ "text": "this is a list item" }] },
+          {
+            "li": [
+              { "text": "this is a list item " },
+              { "a": { "to": "/", "atext": "Link" } },
+              { "text": "this is a list item " }
+            ]
+          },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] },
+          { "li": [{ "a": { "to": "/", "atext": "this is a list item" } }] }
+        ]
+      },
+      "category": "equipes",
+      "lastmodified": "Thu, 10 Feb 2024 00:00:00 GMT"
+    }
+  ],
+  "formations": [
+    {
+      "id": 1,
+      "niveau": "licence",
+      "specialite": "Informatique",
+      "type": "Formation initiale",
+      "href": "formation-licence",
+      "filieres": [
+        {
+          "id": 1,
+          "nom": "Développement Web",
+          "departementId": 1
+        },
+        {
+          "id": 2,
+          "nom": "Systèmes d'Information",
+          "departementId": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "niveau": "master",
+      "specialite": "Chimie Organique",
+      "type": "Formation continue",
+      "href": "formation-master",
+      "filieres": [
+        {
+          "id": 3,
+          "nom": "Synthèse Organique",
+          "departementId": 3
+        },
+        {
+          "id": 4,
+          "nom": "Spectroscopie",
+          "departementId": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "niveau": "doctorat",
+      "specialite": "Physique Quantique",
+      "type": "Formation initiale",
+      "href": "formations-phd",
+      "filieres": [
+        {
+          "id": 5,
+          "nom": "Physique des particules",
+          "departementId": 3
+        },
+        {
+          "id": 6,
+          "nom": "Informatique Quantique",
+          "departementId": 3
+        }
+      ]
+    }
+  ],
+  "departements": [
+    {
+      "id": 1,
+      "nom": " informatique",
+      "filieres": ["Informatique", "Mathématiques appliquées"]
+    },
+    {
+      "id": 2,
+      "nom": "Mathématique",
+      "filieres": ["Biologie", "Biotechnologies"]
+    },
+    {
+      "id": 3,
+      "nom": "Physique",
+      "filieres": ["Chimie organique", "Chimie analytique"]
+    },
+    {
+      "id": 4,
+      "nom": "Chimie",
+      "filieres": ["Informatique", "Mathématiques appliquées"]
+    },
+    {
+      "id": 5,
+      "nom": "Géology",
+      "filieres": ["Informatique", "Mathématiques appliquées"]
+    },
+    {
+      "id": 6,
+      "nom": "Biologie",
+      "filieres": ["Informatique", "Mathématiques appliquées"]
+    }
+  ],
+  "filieres": [
+    {
+      "id": 1,
+      "nom": "Informatique",
+      "departementId": 1
+    },
+    {
+      "id": 2,
+      "nom": "Mathématiques appliquées",
+      "departementId": 1
+    },
+    {
+      "id": 3,
+      "nom": "Biologie",
+      "departementId": 2
+    },
+    {
+      "id": 4,
+      "nom": "Biotechnologies",
+      "departementId": 2
+    },
+    {
+      "id": 5,
+      "nom": "Chimie organique",
+      "departementId": 3
+    },
+    {
+      "id": 6,
+      "nom": "Chimie analytique",
+      "departementId": 3
+    }
+  ],
+  "fs_info": {
+    "annéeCréation": 1978,
+    "nom": "Faculté des Sciences Semlalia de Marrakech (FSSM)",
+    "région": "Tensift Al Haouz",
+    "université": "Université Cadi Ayyad (UCAM)",
+    "missions": [
+      "Formation initiale et continue",
+      "Recherche scientifique et technologique",
+      "Diffusion de la culture et information scientifique et technique",
+      "Coopération nationale et internationale",
+      "Orientation et insertion professionnelle",
+      "Participation au développement économique régional et national"
+    ],
+    "équipeDirection": {
+      "doyen": "Pr. EL Mouden El Hassan",
+      "viceDoyens": [
+        "Pr. Ouazzani Naaila",
+        "Pr. Bouziane Driss",
+        "Pr. Adahchour Abderrahim"
+      ],
+      "secrétaireGénéral": "Mme EL HIMAS Samira"
+    }
+  }
+}
